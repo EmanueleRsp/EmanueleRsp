@@ -63,5 +63,5 @@
 ## Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelersp&show_icons=true&locale=en&layout=compact" alt="emanuelersp" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelersp&show_icons=true&locale=en" alt="emanuelersp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelersp&show_icons=true&hide=issues&locale=en" alt="emanuelersp" /></p>
 
