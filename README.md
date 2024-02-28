@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Emanuele!</h1>
-<h3 align="center">Artificial Intelligence and Data Engineering (AIDE) student at University of Pisa 🎓</h3>
+<h3 align="center">Artificial Intelligence and Data Engineering student at University of Pisa 🎓</h3>
 
 <p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEmanueleRsp&labelColor=%23697689&countColor=%23B0FFB8&labelStyle=upper" alt="emanuelersp" height="25"/> </p>
 
