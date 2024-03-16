@@ -5,7 +5,7 @@
 
 <br>
 
-- 📚 Bachelor in **Coumputer Engineering** (Pisa)
+- 📚 Bachelor's degree in **Coumputer Engineering** (Pisa)
 - 🏔️ Climbing mountains and going trekking in free time
 
 <p align="center"><i>🌱 Believing in a <b>Human-Centered AI</b> that intends to augment human capabilities rather than replace them.</i></p>
