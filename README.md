@@ -1,65 +1,102 @@
-<h1 align="center">👋 Hi there, I'm Emanuele!</h1>
-<h3 align="center">Artificial Intelligence and Data Engineering student at University of Pisa 🎓</h3>
+<h1 align="center">Hi, I'm Emanuele 👋</h1>
 
-<p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEmanueleRsp&labelColor=%23697689&countColor=%23B0FFB8&labelStyle=upper" alt="emanuelersp" height="25"/> </p>
-
-<br>
-
-- 📚 Bachelor's degree in **Coumputer Engineering** (Pisa)
-- 🏔️ Climbing mountains and going trekking in free time
-
-<br>
-
-## Languages and Tools
-
-#### Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-#### Frameworks and Libraries
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-
-#### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<!--- 
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-
---->
-
-
-#### Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<p align="left">
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-    
-</p><br>
-
-## Contacts
-
-<p align="left">
-    <a href="https://linkedin.com/in/emanuele-respino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuele respino" height="30" width="40" /></a>
-    <a href="https://instagram.com/emanuele.rsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanuele.rsp" height="30" width="40" /></a>
+<p align="center">
+  <b>Artificial Intelligence and Data Engineering MSc student</b><br>
+  University of Pisa · Computer Engineering background
 </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelerespino@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/emanuele-respino">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:emanuelerespino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/emanuele.rsp">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<br>
+---
 
-## Stats
+### About me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelersp&show_icons=true&locale=en&layout=compact" alt="emanuelersp" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelersp&show_icons=true&hide=issues&locale=en" alt="emanuelersp" /></p>
+I am a Computer Engineering graduate currently studying **Artificial Intelligence and Data Engineering** at the University of Pisa.
 
+My main interests are in **machine learning**, **data-driven systems**, and **reinforcement learning**, especially when applied to intelligent agents, autonomous systems, and decision-making problems.
+
+Outside tech, I enjoy mountains, trekking, and climbing.
+
+---
+
+### Focus areas
+
+<table>
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td>Learning algorithms, intelligent systems, applied ML workflows</td>
+  </tr>
+  <tr>
+    <td><b>Reinforcement Learning</b></td>
+    <td>Agents, environments, autonomous driving, decision-making</td>
+  </tr>
+  <tr>
+    <td><b>Data Engineering</b></td>
+    <td>Data processing, structured pipelines, reproducible workflows</td>
+  </tr>
+  <tr>
+    <td><b>Software Design</b></td>
+    <td>Clean code, minimal interfaces, functional and readable systems</td>
+  </tr>
+</table>
+
+---
+
+### Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+</p>
+
+---
+
+### GitHub stats
+
+<details>
+  <summary>Show stats</summary>
+
+  <br>
+
+  <p align="center">
+    <img 
+      src="https://github-stats-extended.vercel.app/api?username=EmanueleRsp&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" 
+      alt="Emanuele's GitHub stats" 
+    />
+  </p>
+
+  <p align="center">
+    <img 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=EmanueleRsp&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" 
+      alt="Top languages" 
+    />
+  </p>
+</details>
