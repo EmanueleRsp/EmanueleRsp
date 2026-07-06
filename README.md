@@ -100,3 +100,9 @@ Outside tech, I enjoy mountains, trekking, and climbing.
     />
   </p>
 </details>
+
+---
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEmanueleRsp&label=visitors&labelColor=%232D3748&countColor=%232563EB&labelStyle=upper" alt="visitor counter" height="25"/>
+</p>
